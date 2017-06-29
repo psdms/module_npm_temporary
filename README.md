@@ -1,4 +1,3 @@
-
 Number Formatter
 [![Coverage Status](https://coveralls.io/repos/github/psdms/module_npm_temporary/badge.svg?branch=master)](https://coveralls.io/github/psdms/module_npm_temporary?branch=master)
 [![Build Status](https://travis-ci.org/psdms/module_npm_temporary.svg?branch=master)](https://travis-ci.org/psdms/module_npm_temporary)
